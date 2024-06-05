@@ -1,6 +1,6 @@
 # aiinternship2024
 
-This repository was used during the Pace Seidenberg Artificial Intelligence Internship Experience.
+This repository was used during the Pace Seidenberg Artificial Intelligence Internship Experience 2024.
 
 During this internship, I:
 
