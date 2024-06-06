@@ -10,3 +10,5 @@ During this internship, I:
 - Learned how to use series and data frames
 - Practiced dataset manipulation on a large CSV and created graphs
 - Learned the arcitecure of an AI model and how images are classified
+- Practiced pushing and pulling from our local machines to GitHub
+- Practiced merging personal branches onto the main branch 
