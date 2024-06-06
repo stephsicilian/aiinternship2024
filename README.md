@@ -9,3 +9,4 @@ During this internship, I:
 - Learned how to use the Pillow library to edit jpg and png images
 - Learned how to use series and data frames
 - Practiced dataset manipulation on a large CSV and created graphs
+- Learned the arcitecure of an AI model and how images are classified
